@@ -26,3 +26,12 @@
   <li>Ridha Akmal</li>
   <li>Wisnu Aji Santoso</li>
 </ol>
+
+<h2>Kelompok 4</h2>
+<ol>
+  <li>Fazri Zaenuri</li>
+  <li>Mahesa Aditya Putra</li>
+  <li>Nadiyah Dalilah</li>
+  <li>Rifqi Adrian Praditya</li>
+  <li>Pasya Prama Dewa</li>
+</ol>
