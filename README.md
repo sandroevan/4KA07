@@ -10,3 +10,10 @@
 </ol>
   
 <h2>Kelompok 2</h2>
+<ol>
+  <li>Betta Rismalia Agustina</li>
+  <li>Haikal Muhammad Fitra</li>
+  <li>Muhammad Rama</li>
+  <li>Rafqi Anzal Ramadhan</li>
+  <li>Rio Rizky Wiyandru</li>
+</ol>
