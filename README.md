@@ -17,3 +17,12 @@
   <li>Rafqi Anzal Ramadhan</li>
   <li>Rio Rizky Wiyandru</li>
 </ol>
+
+<h2>Kelompok 3</h2>
+<ol>
+  <li>Fajar Febriansyah</li>
+  <li>Johanda Lobianto</li>
+  <li>Muhammad Zaki</li>
+  <li>Ridha Akmal</li>
+  <li>Wisnu Aji Santoso</li>
+</ol>
