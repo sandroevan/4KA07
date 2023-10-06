@@ -1,5 +1,5 @@
 <h1>Pengelolaan Proyek Sistem Informasi</h1>
-Repository ini dibuat dengan tujuan untuk melihat proses dari tugas matakulian Pengelolaan Proyek Sis.Infromasi kelas 4KA07 yang terdiri dari:
+Repository ini dibuat dengan tujuan untuk melihat proses dari tugas matakuliah Pengelolaan Proyek Sis.Infromasi kelas 4KA07 yang terdiri dari:
 
 <h2>Kelompok 1</h2>
 <ol>
