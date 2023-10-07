@@ -36,3 +36,5 @@ Repository ini dibuat untuk memenuhi tugas Pengelolaan Proyek Sis.Informasi untu
   <li>Rifqi Adrian Praditya</li>
   <li>Pasya Prama Dewa</li>
 </ol>
+
+<h2>setiap kelompok dapat mengakses file project masing-masing yang sudah dibuat</h2>
