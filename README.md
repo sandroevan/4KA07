@@ -37,4 +37,4 @@ Repository ini dibuat untuk memenuhi tugas Pengelolaan Proyek Sis.Informasi untu
   <li>Pasya Prama Dewa</li>
 </ol>
 
-<h2>setiap kelompok dapat mengakses file project masing-masing yang sudah dibuat pada jendela project</h2>
+<h2>Setiap kelompok dapat mengakses file project masing-masing yang sudah dibuat pada jendela project</h2>
